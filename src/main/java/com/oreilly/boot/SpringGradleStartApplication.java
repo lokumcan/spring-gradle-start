@@ -3,6 +3,10 @@ package com.oreilly.boot;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/*
+ * Author Fevzi Ozgul, 18.09.2016
+ * Git tutorial
+ */
 @SpringBootApplication
 public class SpringGradleStartApplication {
 
