@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * A second message added:  Lokum is asking for a play
  * 
  * Change A
+ * Change B
  */
 @SpringBootApplication
 public class SpringGradleStartApplication {
