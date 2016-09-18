@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /*
  * Author Fevzi Ozgul, 18.09.2016
  * Git tutorial
+ * A second message added:  Lokum is asking for a play
  */
 @SpringBootApplication
 public class SpringGradleStartApplication {
